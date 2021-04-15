@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin VB.Form frmMain 
-   Caption         =   "Form1"
+   Caption         =   "VBFile"
    ClientHeight    =   6105
    ClientLeft      =   120
    ClientTop       =   465
